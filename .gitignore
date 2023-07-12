@@ -3,3 +3,8 @@
 
 # local cub files: cub-1.11.0/
 cub/
+
+test/ssb/data/
+test/ssb/dbgen/*.o
+test/ssb/dbgen/dbgen
+test/ssb/loader/loader
